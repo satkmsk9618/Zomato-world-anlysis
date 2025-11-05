@@ -42,8 +42,11 @@ The goal is to provide a clear, actionable overview for stakeholders interested 
 ## 📂 Repository Structure
 
 ├── Zomato Dashboard.pdf         # Original dashboard output (PDF)
+
 ├── Zomato_Analysis.pbix         # Main Power BI file
+
 ├── Data/                        # Raw datasets
+
 └── README.md                    # Readme File
 
 ---
