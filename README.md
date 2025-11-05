@@ -34,7 +34,6 @@ The goal is to provide a clear, actionable overview for stakeholders interested 
 |----------|----------------|------------|
 | Visualization Tool | Power BI | Used to create the interactive dashboard |
 | Mapping Service | Microsoft Azure & TomTom | For map visualizations |
-| Programming/Data Prep | Python / SQL (TBC) | Data cleaning, transformation, pre-processing |
 | Version Control | Git / GitHub | Source control and collaboration |
 
 ---
